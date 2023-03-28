@@ -17,3 +17,11 @@ I am a young and promising frontend developer. My soft skills are due to my educ
 * Figma
 * Git
 
+### Education:
+* **FEFU:** HR 2017-2021
+* **Yandex Practicum:** web developer 2022-2023
+* **Rs School:** frontend developer
+
+### Languages:
+* Russian: native
+* English: B1
